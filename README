@@ -1,4 +1,4 @@
-# Bookstore-A 📚
+Bookstore-A 📚
 
 Bookstore-A
 Este é o repositório do projeto Bookstore-A, uma aplicação de CRUD (Create, Read, Update, Delete) de uma livraria, desenvolvida utilizando JavaScript, Express e MongoDB.
@@ -30,7 +30,7 @@ Siga as etapas abaixo para configurar e executar o projeto em sua máquina local
 
 A aplicação será executada na porta 3000 por padrão. Abra seu navegador e acesse http://localhost:3000 para visualizar a aplicação.
 
-<h2>Funcionalidades</h2>
+Funcionalidades
 A aplicação Bookstore-A oferece as seguintes funcionalidades de CRUD:
 
 Create (Criar): Adicionar um novo livro à livraria.
@@ -38,7 +38,7 @@ Read (Ler): Visualizar a lista de livros cadastrados na livraria.
 Update (Atualizar): Editar as informações de um livro existente.
 Delete (Excluir): Remover um livro da livraria.
 
-<h2>Estrutura do projeto</h2>
+Estrutura do projeto
 A estrutura do projeto segue a seguinte organização:
 
 app.js: Arquivo principal do servidor Express.
@@ -50,7 +50,7 @@ app.js: Arquivo principal do servidor Express.
 
 > . models/: Define o esquema do modelo do MongoDB para a coleção de livros.
 
-<h3>Licença</h3>
+Licença
 Este projeto está licenciado.
 
 Caso tenha alguma dúvida ou precise de ajuda, não hesite em entrar em contato conosco.
