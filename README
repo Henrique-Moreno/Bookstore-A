@@ -1,0 +1,58 @@
+<h1>Bookstore-A 📚</h1>
+
+Bookstore-A
+Este é o repositório do projeto Bookstore-A, uma aplicação de CRUD (Create, Read, Update, Delete) de uma livraria, desenvolvida utilizando JavaScript, Express e MongoDB.
+
+Configuração do ambiente
+Antes de executar a aplicação, é necessário configurar o ambiente de desenvolvimento. Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
+
+Node.js: Ambiente de tempo de execução JavaScript.
+MongoDB: Banco de dados NoSQL.
+Configuração do projeto
+Siga as etapas abaixo para configurar e executar o projeto em sua máquina local:
+
+1 - Clone o repositório:
+
+> git clone https://github.com/Henrique-Moreno/Bookstore-A.git
+
+2 - Acesse o diretório do projeto:
+
+> cd Bookstore-A
+
+3 - Instale as dependências do projeto:
+
+> npm install ou yarn add
+
+4 - Inicie o servidor de desenvolvimento:
+
+> npm start
+
+
+A aplicação será executada na porta 3000 por padrão. Abra seu navegador e acesse http://localhost:3000 para visualizar a aplicação.
+
+<h2>Funcionalidades</h2>
+A aplicação Bookstore-A oferece as seguintes funcionalidades de CRUD:
+
+Create (Criar): Adicionar um novo livro à livraria.
+Read (Ler): Visualizar a lista de livros cadastrados na livraria.
+Update (Atualizar): Editar as informações de um livro existente.
+Delete (Excluir): Remover um livro da livraria.
+
+<h2>Estrutura do projeto</h2>
+A estrutura do projeto segue a seguinte organização:
+
+app.js: Arquivo principal do servidor Express.
+> . controllers/: Contém os controladores que definem a lógica de cada rota.
+
+> . controllers/: Contém os controladores que definem a lógica de cada rota.
+
+> . models/: Define o esquema do modelo do MongoDB para a coleção de livros.
+
+> . models/: Define o esquema do modelo do MongoDB para a coleção de livros.
+
+<h3>Licença</h3>
+Este projeto está licenciado.
+
+Caso tenha alguma dúvida ou precise de ajuda, não hesite em entrar em contato conosco.
+
+
